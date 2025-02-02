@@ -14,7 +14,7 @@ cd <repository_url>
 
 ```
 
-. Once inside the cloned repository, run the following build command for a Docker image:
+. Once inside the cloned repository, run the following build command for a Docker image: 
 ```
 docker build -t rust-cli-calculator
 
